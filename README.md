@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Affan Habib</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Affan Habib</h1>
+<h3 align="left">A passionate MERN stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Hospital Mangement System**
+- 🔭 I’m currently working on **Hospital Information Mangement System**
 
 <p align="left">
 </p>
