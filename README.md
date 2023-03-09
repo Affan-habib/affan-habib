@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Affan Habib</h1>
-<h3 align="left">A passionate MERN stack developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on **Hospital Information Mangement System**
+<h3 align="left">A passionate Javascript developer from Bangladesh</h3>
 
 <p align="left">
    As a JavaScript developer with over 4 years of hands-on experience, I have a deep understanding of both front-end and back-end development. My expertise in JavaScript is vast, including frameworks such as React, Angular, Vue, and Node.js.
