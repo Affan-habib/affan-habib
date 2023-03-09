@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Javascript developer from Bangladesh</h3>
 
 <p align="left">
-   As a JavaScript developer with over 4 years of hands-on experience, I have a deep understanding of both front-end and back-end development. My expertise in JavaScript is vast, including frameworks such as React, Angular, Vue, and Node.js.
+   As a JavaScript developer with over 4 years of hands-on experience, I have a deep understanding of both front-end and back-end development. My expertise in JavaScript is vast, including frameworks such as React, Redux, Vue, and Node.js.
 
 In my career, I have developed a variety of web applications and software solutions using JavaScript, including e-commerce platforms, social media apps, and enterprise systems. I have a thorough understanding of modern web development practices, including responsive design, accessibility, and cross-browser compatibility.
 
