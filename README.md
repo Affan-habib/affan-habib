@@ -1,9 +1,29 @@
-<h1 align="left">Hi 👋, I'm Affan Habib</h1>
-<h3 align="left">A passionate Javascript developer from Bangladesh</h3>
+# Hi there! 👋 I'm Affan Habib
 
-<p align="left">
-  Highly skilled and experienced senior front-end developer with a strong focus on React, Redux, and Material-UI. Leading teams and delivering impactful web applications is my passion. Proficient in UI design, REST API integration, and state management. Continuously enhancing skills to deliver innovative solutions and drive positive change. 
-</p>
-   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I'm a passionate front-end developer with expertise in React, Redux, and Material-UI. My goal is to create impactful and user-centric web applications that make a difference.
+
+## 💼 Professional Experience
+- Led teams and delivered successful projects, showcasing strong leadership and technical skills.
+- Proficient in UI design, REST API integration, and state management using Redux.
+- Continuously stay up-to-date with the latest technologies and best practices in front-end development.
+- Collaborate effectively with cross-functional teams to ensure high-quality and innovative solutions.
+
+## 🌱 Skills
+- React, Redux, Material-UI, HTML, CSS, JavaScript
+- UI/UX design principles and best practices
+- REST API integration and asynchronous operations with Redux Saga
+- Git version control and collaborative development
+
+## 💡 Projects
+- GonoJobs: A job searching platform developed using React, Redux, and Material-UI.
+- E-Survey: A survey application for the Ministry of Education in Bangladesh, built with React, Redux, and REST API integration.
+- Hospital Information Management System: Developed a comprehensive system for managing hospital operations, including patient records, appointments, and billing. Utilized React, Redux, and REST API integration.
+
+## 📫 Let's Connect!
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/affanhabib/)
+- Portfolio: [affan-dev.netlify.com](https://affan-dev.netlify.com)
+- Email: affan.habib44@gmail.com
+
+Feel free to explore my GitHub repositories to see my coding style and the projects I've worked on. I'm always open to collaboration and new opportunities to contribute to impactful projects. Don't hesitate to reach out if you have any questions or would like to connect!
+
+Thank you for visiting my GitHub profile! Have a great day! 😊
