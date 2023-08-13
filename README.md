@@ -21,7 +21,6 @@ I'm a passionate front-end developer with expertise in React, Redux, and Materia
 
 ## 📫 Let's Connect!
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/affanhabib/)
-- Portfolio: [affan-dev.netlify.com](https://affan-dev.netlify.com)
 - Email: affan.habib44@gmail.com
 
 Feel free to explore my GitHub repositories to see my coding style and the projects I've worked on. I'm always open to collaboration and new opportunities to contribute to impactful projects. Don't hesitate to reach out if you have any questions or would like to connect!
