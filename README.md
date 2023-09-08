@@ -9,7 +9,7 @@ I'm a passionate front-end developer with expertise in React, Redux, and Materia
 - Collaborate effectively with cross-functional teams to ensure high-quality and innovative solutions.
 
 ## 🌱 Skills
-- React, Redux, Material-UI, HTML, CSS, JavaScript
+- React, Redux, Material-UI, HTML, CSS, JavaScript, Typescript
 - UI/UX design principles and best practices
 - REST API integration and asynchronous operations with Redux Saga
 - Git version control and collaborative development
