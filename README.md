@@ -1,28 +1,67 @@
-# Hi there! 👋 I'm Affan Habib
+# Affan Habib
 
-I'm a passionate front-end developer with expertise in React, Redux, and Material-UI. My goal is to create impactful and user-centric web applications that make a difference.
+**Senior Frontend Developer | Full Stack Engineer**  
+📧 affan.habib44@gmail.com  
+📱 +8801798984444  
+🔗 [LinkedIn](https://www.linkedin.com/in/affanhabib/) | [GitHub](https://github.com/affan-habib)
 
-## 💼 Professional Experience
-- Led teams and delivered successful projects, showcasing strong leadership and technical skills.
-- Proficient in UI design, REST API integration, and state management using Redux.
-- Continuously stay up-to-date with the latest technologies and best practices in front-end development.
-- Collaborate effectively with cross-functional teams to ensure high-quality and innovative solutions.
+---
 
-## 🌱 Skills
-- React, Redux, Material-UI, HTML, CSS, JavaScript, Typescript
-- UI/UX design principles and best practices
-- REST API integration and asynchronous operations with Redux Saga
-- Git version control and collaborative development
+## About Me
+I'm a **Senior Frontend Developer** with **4+ years of experience** specializing in **React.js**, **TypeScript**, and **JavaScript**. Passionate about creating dynamic and interactive web applications with clean, scalable code. Proficient in **Node.js**, **Python**, and **MongoDB**, and always striving to build high-performance user interfaces. A proven leader, I thrive in collaborative environments and excel at turning complex requirements into functional, beautiful applications.
 
-## 💡 Projects
-- GonoJobs: A job searching platform developed using React, Redux, and Material-UI.
-- E-Survey: A survey application for the Ministry of Education in Bangladesh, built with React, Redux, and REST API integration.
-- Hospital Information Management System: Developed a comprehensive system for managing hospital operations, including patient records, appointments, and billing. Utilized React, Redux, and REST API integration.
+---
 
-## 📫 Let's Connect!
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/affanhabib/)
-- Email: affan.habib44@gmail.com
+## Experience
 
-Feel free to explore my GitHub repositories to see my coding style and the projects I've worked on. I'm always open to collaboration and new opportunities to contribute to impactful projects. Don't hesitate to reach out if you have any questions or would like to connect!
+### **Sr. Software Engineer**  
+**Bacbon Ltd.** | *11/2023 - Present*  
+- Developed **Your Epub**: A complete frontend solution for an e-publication builder/reader including features like flipbooks, MCQs, rich text editing, text-to-speech, and more.  
+- Led the frontend of **Edupack LMS**, a scalable SaaS learning management system.  
+- Built the **Checkme Platform**, an AI-powered English learning tool.  
+- Implemented **Professional Learning Community**: real-time chat, group management, and admin controls.
 
-Thank you for visiting my GitHub profile! Have a great day! 😊
+### **Software Engineer**  
+**Gononet Online Solutions** | *03/2023 - 10/2023*  
+- Developed systems for **Gorillamove** for seamless order processing and tracking.  
+- Built **Delivery Rider App**: Integrated maps, navigation, and real-time delivery tracking.  
+- Frontend development for **Gonojobs**, a job search platform including search/filtering and performance optimization.
+
+### **Junior Software Engineer**  
+**Ethics Advance Technology Ltd.** | *05/2020 - 02/2023*  
+- Contributed to **Banbeis EMIS**, a database for educational surveys and teacher training.  
+- Developed the billing module for the **Hospital Management System**, streamlining patient billing processes.
+
+---
+
+## Education
+
+**Bachelor's Degree**  
+Dhaka University
+
+---
+
+## Skills & Technologies
+
+- **Frontend**: React, React Native, Next.js, Typescript, JavaScript, Three.js  
+- **Backend**: Node.js, Express.js, Python  
+- **Databases**: MongoDB, PostgreSQL, MySQL  
+- **Dev Tools**: Git, Jira, Firebase, Socket.IO, GSAP  
+- **Design**: Figma, Adobe Suite  
+- **Others**: AI & Machine Learning, Cloud Computing, DevOps & CI/CD
+
+---
+
+## Languages
+- **English**: 80/100  
+- **Bangla**: 80/100
+
+---
+
+## Interests
+- Software Architecture | Artificial Intelligence & Machine Learning | Cloud Computing | DevOps & CI/CD  
+- Chess
+
+---
+
+Let's build something amazing together! 🚀
